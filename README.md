@@ -1,7 +1,7 @@
 ##### This is an exapmle of a Honey website. It's fully responsive, modern.
-# <a target="_blank" href="https://darkleas.github.io/company-website-reactjs/">Demo Link</a>
-# Lets see what we have in the website:
-![alt text](companywebsitegif.gif)
+# <a target="_blank" href="https://darkleas.github.io/honey-website-reactjs/">Demo Link</a>
+
+
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
