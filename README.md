@@ -1,19 +1,17 @@
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+##### This is an exapmle of a Honey website. It's fully responsive, modern.
+# <a target="_blank" href="https://darkleas.github.io/company-website-reactjs/">Demo Link</a>
+# Lets see what we have in the website:
+![alt text](companywebsitegif.gif)
+# Getting Started with Create React App
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-Installing
-Installing NPM modules on both client and server folders
-
-Execute these commands from the project directory
-
-cd client && npm install
-cd server && npm install
-Running the app
-Open a terminal on server directory
-
-npm run start:dev
-and open another terminal on client directory
-
-npm run start
-Access the web app at http://localhost:3000/
